@@ -1,0 +1,1 @@
+export {extractTenant} from './extract-tenant'
